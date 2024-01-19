@@ -1,0 +1,7 @@
+@import 'sanitize.css';
+@import 'sanitize.css/assets.css';
+@import 'sanitize.css/reduce-motion.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

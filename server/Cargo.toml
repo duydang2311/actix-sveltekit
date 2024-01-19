@@ -1,0 +1,6 @@
+[workspace]
+resolver = "2"
+members = [ "crates/api","crates/app", "crates/infrastructure"]
+
+[workspace.dependencies]
+actix-web = "4"
